@@ -1,0 +1,16 @@
+﻿  hw 28.09.cpp
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(42,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(42,28): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(50,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(50,34): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(81,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(81,25): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(138,11): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(138,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(192,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(192,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(211,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User\Desktop\hw 28.09\hw 28.09\hw 28.09.cpp(211,35): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  hw 28.09.vcxproj -> C:\Users\User\Desktop\hw 28.09\x64\Debug\hw 28.09.exe
